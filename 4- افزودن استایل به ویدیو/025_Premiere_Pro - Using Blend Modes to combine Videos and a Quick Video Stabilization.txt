@@ -1,0 +1,13 @@
+Title: Using Blend Modes to combine Videos and a Quick Video Stabilization
+	برای ترکیب ویدیوها (و یک ترفند برای تثبیت سریع ویدیو) Blend Modes استفاده از
+Time: 00:05:31
+Size:
+-----
+----- برای ویدیو Mask حذف بخش کلی از تصویر یا ویدیو برای نمایش ویدیو لایه زیرین --- ایجاد
+ بخش۵۲ Effect Controls -> ⏱ Opacity -> Blend Mode [ ^]
+	Exclusion: تصویر را وارونه می کند
+	Multiply: حذف بخش صفید
+
+----- Brightness & Contrast آفکت Color Correction
+ بخش۷۵ Effects -> Video Effects -> Color Correction -> Brightness & Contrast
+	Effect Controls برای تغییر تنظیماتش به تخش
