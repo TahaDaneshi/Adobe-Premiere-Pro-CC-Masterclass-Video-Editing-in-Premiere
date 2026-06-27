@@ -3,7 +3,7 @@ Title: Using Blend Modes to combine Videos and a Quick Video Stabilization
 Time: 00:05:31
 Size:
 -----
------ برای ویدیو Mask حذف بخش کلی از تصویر یا ویدیو برای نمایش ویدیو لایه زیرین --- ایجاد
+----- حذف بخش کلی از تصویر یا ویدیو برای نمایش ویدیو لایه زیرین
  بخش۵۲ Effect Controls -> ⏱ Opacity -> Blend Mode [ ^]
 	Exclusion: تصویر را وارونه می کند
 	Multiply: حذف بخش صفید
