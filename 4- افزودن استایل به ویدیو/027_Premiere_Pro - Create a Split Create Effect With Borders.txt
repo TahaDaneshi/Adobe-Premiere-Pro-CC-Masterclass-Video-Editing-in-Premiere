@@ -1,0 +1,17 @@
+Title: Create a Split Create Effect With Borders
+	با بوردرها Split Create ایجاد افکت
+Time: 00:06:51
+Size:
+-----
+قرار دادن چنند سکانس در یک صفحه و پخش همزمانشون
+----- Crop استفاده از افکت ویدیویی
+ بخش Effects -> Video Effects -> Transform -> Crop
+ برید fx Crop <- Effect Controls برای تنظیماتش هم به بخش
+ در تنظیماتش برای برش باید مقادیر زیر را تغییر دهدی
+	⏱ Left
+	⏱ Top
+	⏱ Right
+	⏱ Bottom
+--- Work
+	برای حذف (برش) قسمت ها کناری ویدیو
+
