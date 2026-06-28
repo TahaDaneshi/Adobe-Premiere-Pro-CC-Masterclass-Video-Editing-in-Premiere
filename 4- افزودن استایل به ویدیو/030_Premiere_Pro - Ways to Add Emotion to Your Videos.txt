@@ -1,0 +1,18 @@
+Title: Ways to Add Emotion to Your Videos
+	سه روش برای افزودن احساساتبه ویدئوهای خود
+Time: 00:07:19
+Size:
+-----
+-- 1
+	آهنگ به ویدئوهای خود اضافه کنید
+-- 2
+	سکانس ه در هنگام ضرب آهنگ صدا منتقل شوند
+-- 3
+	مناسب برای هر سکانس استفاده کن Zoom In / Out
+
+--- توجه
+ اگر کیفیت سکانس ها متفاوت باشند بهتر است به جای Zoom برای انیمیشن های
+	Effect Controls -> fx Motion -> ⏱ Scale
+ ابتدا بروید و انی کار را انجام دهید
+	Effects -> Video Effects -> Distort -> Transform
+ را انجام دهید ⏱ Scale رفته و تنظیمات fx Transform <- Effect Contorls روی سکانس ها قرار دهید و سئس به
